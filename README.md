@@ -1,4 +1,4 @@
-# soalno3UAP_PBO_163241025
+# Soal no 3 UAP PBO_163241025
 **Ujian Akhir Praktikum Soal no 3:** Simulasi Sistem Manajemen Parkir Multilapis (Advanced Parking Management System)
 **Mata Kuliah:** SIR201 – Pemrograman Berorientasi Objek (PBO)
 **Program Studi:** Teknik Robotika & Kecerdasan Buatan – Universitas Airlangga
@@ -31,7 +31,7 @@ Cek dengan:
 ```bash
 g++ --version
 
-g++ main.cpp -o parking_system
+g++ soalno3UAP.cpp -o parking_system
 parking_system.exe
 
 ---
