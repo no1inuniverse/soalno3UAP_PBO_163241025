@@ -1,0 +1,78 @@
+============================================
+        DETAIL TARIF PARKIR
+============================================
+
+I. TARIF DASAR PER JAM:
+----------------------
+1. SEPEDA MOTOR          : Rp  2.000 / jam
+2. MOBIL PRIBADI         : Rp  5.000 / jam
+3. KENDARAAN LISTRIK (EV): Rp  4.000 / jam
+
+II. BIAYA TAMBAHAN:
+------------------
+1. CHARGING EV           : Rp  3.000 / sesi
+   (Dikenakan jika menggunakan fasilitas charging)
+   
+2. VIP SURCHARGE         : 50% dari tarif mobil
+   Contoh: Mobil 2 jam di VIP = (2 × 5.000) × 1.5 = Rp 15.000
+
+III. DISKON:
+-----------
+1. DISKON JANGKA PANJANG : 10% untuk parkir > 24 jam
+   Berlaku untuk semua jenis kendaraan
+   Contoh: Motor 30 jam = (30 × 2.000) × 0.9 = Rp 54.000
+   
+2. DISKON MEMBER         : 5% (jika program member diaktifkan)
+3. DISKON EARLY BIRD     : 15% untuk masuk sebelum jam 10:00
+
+IV. CONTOH PERHITUNGAN:
+----------------------
+1. MOBIL BIASA:
+   - 3 jam parkir = 3 × 5.000 = Rp 15.000
+   - 25 jam parkir = (25 × 5.000) × 0.9 = Rp 112.500
+   
+2. EV DENGAN CHARGING:
+   - 4 jam + charging = (4 × 4.000) + 3.000 = Rp 19.000
+   - 30 jam + charging = [(30 × 4.000) + 3.000] × 0.9 = Rp 110.700
+   
+3. MOTOR:
+   - 2 jam = 2 × 2.000 = Rp 4.000
+   - 48 jam = (48 × 2.000) × 0.9 = Rp 86.400
+   
+4. MOBIL DI VIP:
+   - 2 jam = (2 × 5.000) × 1.5 = Rp 15.000
+   - 26 jam = (26 × 5.000) × 1.5 × 0.9 = Rp 175.500
+
+V. ATURAN PEMBAYARAN:
+-------------------
+1. DURASI MINIMUM: 1 jam (dibulatkan ke atas)
+2. PEMBULATAN: Ke Rupiah penuh (tidak ada pecahan)
+3. METODE BAYAR: Tunai, Debit/Kredit (jika diaktifkan)
+4. DENDA KETERLAMBATAN: 25% per jam setelah 15 menit grace period
+
+VI. JADWAL OPERASIONAL:
+----------------------
+HARI BIASA:
+- BUKA  : 06:00
+- TUTUP : 22:00
+
+AKHIR PEKAN:
+- BUKA  : 08:00  
+- TUTUP : 20:00
+
+LIBUR NASIONAL:
+- BUKA  : 09:00
+- TUTUP : 18:00
+
+VII. TARIF KHUSUS JAM SIBUK:
+---------------------------
+JAM SIBUK (Weekday):
+- 07:00 - 09:00 : +20% dari tarif normal
+- 16:00 - 19:00 : +30% dari tarif normal
+
+AKHIR PEKAN: +25% dari tarif normal
+LIBUR NASIONAL: +50% dari tarif normal
+
+============================================
+      Berlaku efektif per 1 Januari 2024
+============================================
