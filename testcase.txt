@@ -1,0 +1,70 @@
+TEST CASE 1
+Park the motorcycle (regular slot)
+
+Input:
+Menu: 1
+Plate vehicle: 1678
+Owner name: aul
+Vehicle type: 1 (Motorcycle)
+
+Expected:
+- Kendaraan berhasil parkir
+- Ticket ID diberikan
+- Slot Regular terisi
+
+
+TEST CASE 2
+Reserve VIP slot (regular slot)
+
+Input:
+Menu: 3
+Plate vehicle: 1789
+Reservation duration (hours): 12
+
+Expected:
+- Slot VIP berhasil dipesan
+- Slot VIP terisi
+
+
+TEST CASE 3
+Current occupation
+
+Input:
+Menu: 4
+
+Expected:
+- Menampilkan seluruh slot parkir
+
+
+TEST CASE 4
+Daily report
+
+Input:
+Menu: 5
+
+Expected:
+- Menampilkan laporan harian parkir
+- Menampilkan penggunaan slot parkir tiap lantai
+
+
+TEST CASE 5
+Unpark the motorcycle
+
+Input:
+Menu: 2
+Ticket ID: 1000
+
+Expected:
+- Kendaraan keluar
+- Tarif dihitung minimal 1 jam
+- Motor: 1 × 2000 = Rp 2000
+
+
+TEST CASE 6
+Menyimpan data
+
+Input:
+Menu: 6
+
+Expected:
+- Simulasi data uji disimpan
