@@ -1,0 +1,45 @@
+============================================
+          LAYOUT PARKIR
+============================================
+
+LANTAI 1 [KAPASITAS: 5 KENDARAAN]
+--------------------------------
+[    ENTRANCE/EXIT    ]
+-----------------------
+           AISLE
+-----------------------
+[ R1 ] [ R2 ] [ R3 ]   <- REGULAR SLOTS
+-----------------------
+[ E1 ] [ E2 ] [    ]   <- EV CHARGING SLOTS
+-----------------------
+[    ] [    ] [    ]   <- DISABLED PARKING
+--------------------------------
+
+LANTAI 2 [KAPASITAS: 5 KENDARAAN]
+--------------------------------
+           RAMP UP
+-----------------------
+           AISLE
+-----------------------
+[ V1 ] [ V2 ] [ V3 ]   <- VIP RESERVED SLOTS
+-----------------------
+[ R4 ] [ R5 ] [    ]   <- REGULAR SLOTS
+-----------------------
+[ ELEVATOR ] [    ]   <- TO LANTAI 1
+--------------------------------
+
+KETERANGAN:
+- R1, R2, R3, R4, R5 = Slot Regular (Semua Kendaraan)
+- E1, E2            = Slot EV dengan Charging Station
+- V1, V2, V3        = Slot VIP (Reservasi Diperlukan)
+
+DIMENSI SLOT:
+- Regular/EV: 2.5m x 5.0m
+- VIP: 3.0m x 6.0m
+- Aisle: 6.0m lebar
+
+ATURAN:
+1. EV hanya boleh parkir di slot E1/E2 untuk charging
+2. VIP slot bisa dipakai umum jika tidak direservasi
+3. Disabled parking: Prioritas untuk difabel
+4. Maksimum tinggi kendaraan: 2.2m (Lantai 1), 2.0m (Lantai 2)
